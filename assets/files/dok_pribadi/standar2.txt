@@ -1,0 +1,15 @@
+Always access your control panel using http://alfatah.freevar.com/cpanel. This way you will be redirected to the proper server.
+
+Log in using:
+
+Username: alfatah.freevar.com
+Password: wanda10budi
+If you have accounts created on more than one server, see http://www.freewebhostingarea.com/members/.
+
+FTP Server/Host: alfatah.freevar.com
+FTP Login/Username: alfatah.freevar.com
+FTP PassWord: wanda10budi
+
+
+
+https://cp1.awardspace.net/php-settings/
